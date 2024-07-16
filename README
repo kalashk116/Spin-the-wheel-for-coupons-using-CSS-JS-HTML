@@ -1,2 +1,6 @@
-ask for access to view code  . 
+The provided code creates a webpage featuring a "Spinning Wheel" game, which offers users the chance to win various discounts and a jackpot. It uses HTML for structure, CSS for styling, and JavaScript (along with D3.js) for the spinning wheel functionality. The CSS incorporates glassmorphism, characterized by a semi-transparent, blurred background that gives the interface a frosted-glass effect.
+When the page loads, a spinning wheel is displayed. Users can enter their mobile number or email to receive an OTP, which they need to verify to spin the wheel. Upon successful verification, the wheel spins to reveal a coupon code for the user. The glassmorphism effect enhances the visual appeal by adding a modern, sleek look to the card that contains the game elements
+
+ask for access to view/gain code file  . 
+
 https://drive.google.com/drive/folders/1LFLa_eehvuDAd2UVZ7EWv4Ni8zrgonF5?usp=sharing
